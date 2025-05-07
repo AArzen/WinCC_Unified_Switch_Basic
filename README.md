@@ -18,16 +18,21 @@
 ```
 project-root/
 │
-├── css/
-│   └── style.css
-├── js/
-│   ├── updateGraphics.js
-│   ├── webcc.min.js
-│   └── webcc-init.js
+|── control/
+|   |── index.html
+|   |── css/
+│   |   └── style.css
+|   └── js/
+│       ├── updateGraphics.js
+│       ├── webcc.min.js
+│       └── webcc-init.js
 ├── assets/
-│   └── switch_basic_preview.png
+│   |── Switch_Basic.ico
+|   ├── Switch_Basic.png
+|   └── Switch_Basic.svg
 ├── {046C253D-4BE8-45BD-BFBE-E636B95AD694}.zip
-└── index.html
+└── manifest.json
+
 ```
 
 ---
