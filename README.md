@@ -1,4 +1,4 @@
-# Switch_Basic ![Preview](./assets/switch_basic_preview.png)
+# Switch_Basic ![Preview](./assets/switch_basic.png)
 
 **Switch_Basic** is a lightweight and customizable **Custom Web Control** designed for use in [WinCC Unified](https://support.industry.siemens.com/cs/document/109784439/). It provides a visual toggle switch that can trigger events and adapt its appearance via properties.
 
